@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Savage]]></title>
+        <description><![CDATA[Daniel Savage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Sep 2015 00:42:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static1.squarespace.com/static/54dd660ee4b03539bbd8c720/54dd6667e4b08d0767b379c6/55e4c1ade4b042e7025f35aa/1441055179883/peekaboo.gif?format=1500w">]]></description>
+            <link>undefined113706a4-cc81-425c-b27b-433986f8dbb2/index.html</link>
+            <guid isPermaLink="false">113706a4-cc81-425c-b27b-433986f8dbb2</guid>
+            <pubDate>Tue, 15 Sep 2015 00:42:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
