@@ -1,6 +1,6 @@
 name: Daniel Savage
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.05411190469749272
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.2671174497809261
